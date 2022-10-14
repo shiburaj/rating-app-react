@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{align-items:center;background-color:#ff4500;display:flex;justify-content:center;min-height:100vh}.rating-card{background-color:#f5f5f5;border-radius:.5em;box-shadow:2px 2px 2px rgba(0,0,0,.5);display:flex;flex-direction:column;gap:3em;padding:2em;text-align:center}.rating-smiley i.fa-solid{color:#292929}.rating-smiley i.fa-solid:first-child{display:block}.rating-stars{color:gray}.rating-stars .fa-solid,.rating-stars i:hover{color:#df8600}
+/*# sourceMappingURL=main.46a57426.css.map*/
